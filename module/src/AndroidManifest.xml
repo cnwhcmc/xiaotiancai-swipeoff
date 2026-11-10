@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.swipeoff"
+    android:versionCode="1"
+    android:versionName="1.0">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
+    <application android:label="右滑不退出" android:hasCode="true">
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="右滑不退出 + 电源键改造" />
+        <meta-data android:name="xposedminversion" android:value="82" />
+    </application>
+</manifest>
