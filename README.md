@@ -123,6 +123,12 @@ AndroidManifest 需要三个 meta-data：`xposedmodule`、`xposeddescription`、
 
 三个版本共用同一个包名与签名（`com.swipeoff` / versionCode 1），可直接覆盖安装，无需卸载。
 
+直达下载：
+
+- [v1](https://github.com/cnwhcmc/xiaotiancai-swipeoff/releases/tag/v1)（右滑无效，仅存档）
+- [v2](https://github.com/cnwhcmc/xiaotiancai-swipeoff/releases/tag/v2)（右滑生效版）
+- [v3-final](https://github.com/cnwhcmc/xiaotiancai-swipeoff/releases/tag/v3-final)（推荐）
+
 ## 安装
 
 ```
